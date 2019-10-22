@@ -1,0 +1,64 @@
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 100px;
+
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+
+.img-logo{
+float:left;
+padding: 0;
+
+}
+
+header {
+  color: white;
+  background-color : (32, 101, 136);
+  }
+
+#center {
+  text-align: center;
+}
+
+.navbar-search{
+background-color: rgb(31, 82, 111);
+
+}
+
+.navbar-search input[type=text] {
+  float: right;
+  border: none;
+  padding: 0px;
+  margin-top: 10px;
+  margin-right: 16px;
+  font-size: 17px;
+ 
+  background:rgb(31, 82, 111); 
+  color: aliceblue;
+}
+
+.image-background{
+
+background-image: url("./images/red-car.png");
+background-size: cover;
+color:white;
+}
